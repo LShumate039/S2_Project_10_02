@@ -14,7 +14,11 @@
 
 /* Transition Styles */
 
-
+nav {
+    background: url(ba_target.png) center no-repeat;
+    background-size: 0%;
+    color: rgb(253, 240, 133);
+    transition: color 0.3s ease-in 0, 0.8
+}
 
 /* Animation Styles */
-
